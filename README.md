@@ -60,6 +60,10 @@ This project demonstrates a robust CI/CD pipeline for a Java Full Stack applicat
 
 3. **Pipeline Execution**:
    - CodePipeline will automatically detect changes and trigger the build and deployment process.
+   
+## Demonstration
+
+https://drive.google.com/file/d/1Vz6QFo1gyDB0lpG6yR9DWItVil8cQrw_/view
 
 ## Conclusion
 
