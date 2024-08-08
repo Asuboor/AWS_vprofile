@@ -14,6 +14,11 @@ This project demonstrates a robust CI/CD pipeline for a Java Full Stack applicat
 - **AWS CodeCommit**: A source control service that manages and stores the code in a Git repository.
 - **AWS CodePipeline**: A CI/CD service that automates the build, test, and deployment phases of the application.
 
+## Architecture
+
+![435a6785-3351-4fbf-83a2-7a08ee0a64a1](https://github.com/user-attachments/assets/ad5d8de5-98d5-48f5-9a9f-e4da38225912)
+
+
 ## How It Works
 
 1. **Source Code Management**:
