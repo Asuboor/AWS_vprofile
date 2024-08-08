@@ -17,6 +17,11 @@ This project sets up a robust AWS infrastructure to host and manage the VProfile
 - **Amazon RDS (MySQL)**: Managed relational database service to store application data securely and reliably.
 - **Amazon S3**: Object storage service used to store and retrieve application artifacts.
 
+## Architecture
+
+![45dd6a85-89ea-46e1-aca3-a6e61332e333](https://github.com/user-attachments/assets/7a45bebc-7063-41de-9dbf-7704cac5af38)
+
+
 ## Detailed Setup and Working Steps
 
 ### Step 1: Website Access via Load-Balanced URL
