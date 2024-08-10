@@ -66,6 +66,7 @@ Users access the VProfile Java application via a load-balanced URL provided by t
 - **Amazon MQ** serves as a message broker for the VProfile application, enabling reliable communication between different components and services.
 
 ![Screenshot (249)](https://github.com/user-attachments/assets/3605e8ad-0f69-4979-b104-bc44182f2a27)
+![98fd5613-63c3-4783-8682-5a518915520f](https://github.com/user-attachments/assets/950473db-9561-4f16-a289-d1791b3870c2)
 
 ### Step 7: ElastiCache and Amazon RDS Integration
 
